@@ -1098,8 +1098,8 @@ border: 2px solid #a1a1a1; }
     padding-left: 15px;
     flex: 0 0 33.33333%;
     max-width: 33.33333%; 
-  border-radius: 25px;
-border: 2px solid #a1a1a1;}
+  /*border-radius: 25px;
+border: 2px solid #a1a1a1;*/}
 
   .col-md-5 {
     position: relative;
@@ -1116,8 +1116,8 @@ border: 2px solid #a1a1a1;}
     padding-left: 15px;
     flex: 0 0 50%;
     max-width: 50%; 
-  border-radius: 25px;
-border: 2px solid #a1a1a1;}
+  /*border-radius: 25px;
+border: 2px solid #a1a1a1;*/}
 
   .col-md-7 {
     position: relative;
