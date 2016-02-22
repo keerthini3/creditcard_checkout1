@@ -29,7 +29,7 @@
 	
 	height: 24px;
 	opacity: 0.7;
-	font-size: 14px;
+	font-size: 13px;
 	font-face: .AppleSystemUIFont;
 	line-height: 12px;
 	color: #9c9c9c;
@@ -60,8 +60,7 @@
 	padding-left: 381px;
 }
 .title_of_img {
-	width: 200px;
-	height: 26px;
+	width: 160px;
 	font-size: 12px;
 	font-face: .AppleSystemUIFont;
 	line-height: 13px;
@@ -82,3 +81,9 @@
 	line-height: 11px;
 	color: #777879;
 }
+/*.line {
+	width: 284px;
+	height: 3px;
+	opacity: 0.2;
+	border: solid 1px #979797;
+}*/
